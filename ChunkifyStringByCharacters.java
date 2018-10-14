@@ -11,7 +11,7 @@ public class ChunkifyStringByCharacters {
         // this is where we'll store the completed chunks
         ArrayList<String> chunks_array = new ArrayList<>();
 
-        // stringbuilder withen a given size (64 bytes in this case)
+        // stringbuilder with a given size (64 bytes in this case)
         byte[] size = new byte[chunk_size];
         StringBuilder chunk = new StringBuilder(size.length);
         
