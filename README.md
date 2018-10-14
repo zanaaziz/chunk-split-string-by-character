@@ -1,4 +1,4 @@
-# Splitting strings into chunks of a given size by character.
+# Splitting Strings Into Chunks of a Given Size by Character
 This code allows you to format a large piece of string data into streamable chunks split at certain character(s).
 
 It's typically useful for streaming large commands/data to devices that you have a limited amount of input available at once.
